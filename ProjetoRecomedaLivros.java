@@ -1,13 +1,3 @@
-/*
- String[] terror = {"aaa", "baa", "caa", "daa"};
-        String[] l1 = new String[4];
-        System.arraycopy(terror, 1, l1, 0, 3);
-
-        
-        
-        
-        System.out.println(Arrays.toString(l1));*/
-        
 import java.util.*;
 public class Main
 {
