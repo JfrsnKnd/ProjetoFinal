@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class ProjetoRecomedaLivros
 {
 	public static void main(String[] args) {
 	    System.out.println("<<<BEM VINDO ao sBOOK!>>>");
@@ -157,7 +157,7 @@ public class Main
             System.out.println("OPÇÃO INVÁLIDA!");
         }
         
-        System.out.println(Arrays.toString("Recomendamos esta títulos para seu perfil."));
+        System.out.println("Recomendamos esta títulos para seu perfil.");
 		System.out.println(Arrays.toString(l1));
 		System.out.println(Arrays.toString(l2));
 		System.out.println(Arrays.toString(l3));
